@@ -1,0 +1,10 @@
+[
+  {
+    "package": "esback",
+    "oncran": true
+  },
+  {
+    "package": "esreg",
+    "oncran": true
+  }
+]

@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "esback"]
+	path = esback
+	url = https://github.com/bayerse/esback
+	shallow = true
+	registered = true
+[submodule "esreg"]
+	path = esreg
+	url = https://github.com/bayerse/esreg
+	shallow = true
+	registered = true
